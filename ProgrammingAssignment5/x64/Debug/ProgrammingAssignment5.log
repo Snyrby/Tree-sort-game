@@ -1,0 +1,9 @@
+﻿  ITreeDr.cpp
+  ITreeType.cpp
+  QueType.cpp
+  SearchTree.cpp
+C:\Users\snyrb\OneDrive\Documents\Visual Studio\C++\Programming Concepts\ProgrammingAssignment5\ProgrammingAssignment5\SearchTree.cpp(127,21): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\snyrb\OneDrive\Documents\Visual Studio\C++\Programming Concepts\ProgrammingAssignment5\ProgrammingAssignment5\SearchTree.cpp(148,21): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\snyrb\OneDrive\Documents\Visual Studio\C++\Programming Concepts\ProgrammingAssignment5\ProgrammingAssignment5\SearchTree.cpp(163,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  ProgrammingAssignment5.vcxproj -> C:\Users\snyrb\OneDrive\Documents\Visual Studio\C++\Programming Concepts\ProgrammingAssignment5\x64\Debug\ProgrammingAssignment5.exe

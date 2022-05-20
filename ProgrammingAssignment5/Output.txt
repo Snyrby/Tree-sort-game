@@ -1,0 +1,19 @@
+Word 1: Dog
+
+Word 2: Treat
+
+Word 3: Trail
+
+Word 4: Ran
+
+Word 5: Paw
+
+Jim says: The Dog Went To The Park And Chased A Ball.
+
+Marcy says: The Dog Went For A Walk On The Trail. It Then Ran So Fast That It Hurt Its Paw, So I Gave It A Treat.
+
+Sorry, Jim, you failed to say the following magic words: 
+Paw
+Ran
+Trail
+TreatCongratulations, Marcy, you have won the prize!
